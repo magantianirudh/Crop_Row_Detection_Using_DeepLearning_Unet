@@ -55,11 +55,9 @@ This architecture balances performance with efficiency, making it suitable for *
 
 Below is an example of model prediction:
 
-- Original image of a crop field
-![image](https://github.com/user-attachments/assets/fffa7109-9a21-46cc-9fab-12fcfe2011c6)
+- Original image of a crop field: ![image](https://github.com/user-attachments/assets/fffa7109-9a21-46cc-9fab-12fcfe2011c6)
 
-- Predicted binary segmentation map with crop rows highlighted
-![image](https://github.com/user-attachments/assets/d94dcba1-72c3-4e23-a7e1-fd2dbbb78908)
+- Predicted binary segmentation map with crop rows highlighted: ![image](https://github.com/user-attachments/assets/d94dcba1-72c3-4e23-a7e1-fd2dbbb78908)
 
 ---
 
